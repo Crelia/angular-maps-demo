@@ -1,0 +1,19 @@
+.container {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  background-color: whitesmoke;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-box-shadow: 0px 0px 9px 3px rgba(41,41,41,.25);
+  -moz-box-shadow: 0px 0px 9px 3px rgba(41,41,41,.25);
+  box-shadow: 0px 0px 9px 3px rgba(41,41,41,.25);
+
+}
+
+.navbar-toggler {
+  font-size: 15px;
+  width: 15vw;
+  border-radius: 8px;
+  border-style: solid;
+}
+

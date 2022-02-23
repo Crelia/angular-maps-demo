@@ -1,0 +1,9 @@
+agm-map {
+  height: 90vh;
+  justify-content: center;
+  overflow: visible;
+}
+.container {
+  overflow: visible;
+}
+

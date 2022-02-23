@@ -1,0 +1,8 @@
+<div class="container" ng-bind="textFromJSON" style="white-space:pre-wrap">
+  <H1 style="text-align: center"> {{this.city.name}}, {{this.city.st}} </H1>
+  <p> {{this.city.description}}</p>
+  <div style="text-align: center; padding-top: 10vh">
+    <img src="{{this.city.img}}" width="900">
+  </div>
+  <router-outlet></router-outlet>
+</div>

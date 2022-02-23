@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Denton",
+    "st": "Texas",
+    "lat":33.21505,
+    "lng": -97.13308,
+    "id": 1,
+    "description": "Population:\t139,869\nArea:\t\t97.95 sq mi\nElevation:\t642 ft\nTimezone:\tCST\n\n\nLocated on the far north end of the Dallas–Fort Worth metroplex in North Texas on Interstate 35, Denton is known for its active music life; the North Texas State Fair and Rodeo, Denton Arts and Jazz Festival, and 35 Denton Music Festival attract over 300,000 people to the city each year. The city experiences hot, humid summers and few extreme weather events. Its diverse citizenry is represented by a nonpartisan city council, and numerous county and state departments have offices in the city. With over 45,000 students enrolled at the two universities located within its city limits, Denton is often characterized as a college town. As a result of the universities' growth, educational services play a large role in the city's economy. Residents are served by the Denton County Transportation Authority, which provides commuter rail and bus service to the area. ",
+    "img": "../../../assets/images/denton.jpg"
+  },
+  {
+    "name": "Boulder",
+    "st": "Colorado",
+    "lat": 40.02179,
+    "lng": -105.21771,
+    "id": 2,
+    "description": "Population:\t108,250\nArea:\t\t27.366 sq mi\nElevation:\t5,318 ft\nTimezone:\tMST\n\n\nThe City of Boulder is a home rule municipality that is the county seat and most populous municipality of Boulder County, Colorado, United States. The city population was 108,250 at the 2020 United States Census, making it the 12th most populous city in Colorado. Boulder is the principal city of the Boulder, CO Metropolitan Statistical Area and an important part of the Front Range Urban Corridor.\n\nBoulder is located at the base of the foothills of the Rocky Mountains, at an elevation of 5,430 feet (1,655 m) above sea level. Boulder is 25 miles (40 km) northwest of the Colorado state capital of Denver. It is home of the main campus of the University of Colorado, the state's largest university.",
+    "img": "../../../assets/images/boulder.jpg"
+  },
+  {
+    "name": "Chicago",
+    "st": "Illinois",
+    "lat": 41.87644,
+    "lng": -87.63422,
+    "id": 3,
+    "description": "Population:\t2,746,388\nArea:\t\t234.53 sq mi\nElevation:\t597.18 ft\nTimezone:\tCentral\n\n\nLocated on the shores of freshwater Lake Michigan, Chicago was incorporated as a city in 1837 near a portage between the Great Lakes and the Mississippi River watershed and grew rapidly in the mid-19th century. After the Great Chicago Fire of 1871, which destroyed several square miles and left more than 100,000 homeless, the city rebuilt. The construction boom accelerated population growth throughout the following decades, and by 1900, less than 30 years after the great fire, Chicago was the fifth-largest city in the world. Chicago made noted contributions to urban planning and zoning standards, including new construction styles (including the Chicago School of architecture), the development of the City Beautiful Movement, and the steel-framed skyscraper.",
+    "img": "../../../assets/images/chicago.jpg"
+  },
+  {
+    "name": "Seattle",
+    "st": "Washington",
+    "lat": 47.59446,
+    "lng": -122.33306,
+    "id": 4,
+    "description": "Population:\t737,015\nArea:\t\t142.07 sq mi\nElevation:\t175 ft\nTimezone:\tPacific & PDT\n\n\nSeattle is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2020 population of 737,015, it is the largest city in both the state of Washington and the Pacific Northwest region of North America. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States. Its growth rate of 21.1% between 2010 and 2020 makes it one of the nation's fastest-growing large cities.",
+    "img": "../../../assets/images/seattle.jpg"
+  },
+  {
+    "name": "Los Angeles",
+    "st": "California",
+    "lat": 34.03178,
+    "lng": -118.24073,
+    "id": 5,
+    "description": "Population:\t3,967,000\nArea:\t\t501.55 sq mi\nElevation:\t305 ft\nTimezone:\tPacific & PDT\n\n\nThe City of Los Angeles lies in a basin in Southern California, adjacent to the Pacific Ocean, and extends through the Santa Monica Mountains and into the San Fernando Valley, covering a total of about 469 square miles (1,210 km2). It is the seat of Los Angeles County, which is the most populous county in the United States with just over 10 million residents in 2020.",
+    "img": "../../../assets/images/losangeles.jpg"
+  }
+]
